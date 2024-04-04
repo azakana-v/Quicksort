@@ -31,7 +31,7 @@ This project started as a assignment from my university, and i've decided do put
 
 ```bash
     #Clone the project
-    $git clone https://github.com/azak-v/Quicksort.git
+    $git clone https://github.com/azakana-v/Quicksort.git
 ```
 
 ...or just simply download the project <a href="https://github.com/azak-v/Quicksort/archive/refs/heads/master.zip">here.</a>
